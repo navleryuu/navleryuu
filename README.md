@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navleryuu
 - 👀 I’m interested in  Coding & Anime
-- 🌱 I’m currently learning HTML,CSS,JS,REACTJS.
+- 🌱 I’m currently learning HTML,CSS,JS,LARAVEL,REACTJS.
 
 
 <!---
